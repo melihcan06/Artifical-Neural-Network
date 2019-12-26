@@ -1,5 +1,4 @@
 import numpy as np
-# melih can kilic 161213020
 
 class ysa:
     def __init__(self, giris, cikis, ok, akns):
